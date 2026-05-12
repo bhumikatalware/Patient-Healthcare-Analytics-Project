@@ -7,7 +7,6 @@ This project is an end-to-end Data Analytics project focused on analyzing health
 The main objective is to transform raw healthcare data into meaningful insights that help understand patient demographics, hospital visits, treatment costs, lab test trends, and healthcare performance indicators.
 
 Dataset
-
 The dataset contains healthcare-related information divided into multiple tables:
 
 Patient Data – Patient demographics, age, gender, blood type, insurance provider, chronic conditions
@@ -25,21 +24,25 @@ Power BI	Dashboard & Data Visualization
 Gamma	Presentation (PPT) Creation
 GitHub	Project Hosting & Portfolio
 Project Workflow
+
 1. Data Loading in Python
 Imported datasets using pandas
 Loaded CSV files into Jupyter Notebook
 Checked dataset structure and data types
+
 2. Exploratory Data Analysis (EDA)
 Analyzed dataset statistics
 Identified missing values and duplicates
 Explored distributions and trends
 Generated insights from healthcare records
+
 3. Data Cleaning
 Removed duplicate records
 Handled missing values
 Standardized column names
 Corrected inconsistent data
 Converted data types
+
 4. SQL Analysis
 
 Performed SQL analysis using PostgreSQL/MySQL/SQL Server to generate KPIs and business insights.
@@ -52,10 +55,10 @@ Treatment Cost Analysis
 Diagnosis & Visit Trends
 Abnormal Lab Test Analysis
 Doctor Workload Analysis
+
 5. Power BI Dashboard
 
 Created an interactive dashboard to visualize healthcare insights.
-
 Dashboard Features
 KPI Cards
 Patient Demographics Visualization
@@ -64,31 +67,14 @@ Visit Trends
 Lab Test Result Analysis
 Interactive Filters & Slicers
 Doctor Performance Insights
+
 6. Report Creation
-
 Prepared a detailed project report summarizing:
-
 Dataset overview
 EDA findings
 SQL analysis
 Dashboard insights
 Business recommendations
-7. PPT Creation using Gamma
-
-Created a professional presentation using Gamma to showcase:
-
-Project objectives
-Workflow
-Dashboard screenshots
-Key insights
-Final conclusions
-Key Results & Insights
-Identified common chronic conditions among patients
-Analyzed treatment cost trends and expensive procedures
-Measured patient follow-up rates
-Evaluated abnormal lab test percentages
-Studied patient demographics and healthcare patterns
-Analyzed doctor workload distribution
 
 Project Files
 File Name	Description
@@ -118,11 +104,10 @@ Dashboard Development
 Data Visualization
 Business Insight Generation
 Healthcare Data Analysis
-Conclusion
 
+Conclusion
 This project demonstrates a complete data analytics workflow using Python, SQL, and Power BI. It highlights practical skills in data cleaning, SQL analysis, dashboard development, reporting, and presentation creation while generating meaningful healthcare insights.
 
 Author
-
 Bhumika Talware
 Data Analytics Project Portfolio
