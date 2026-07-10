@@ -155,15 +155,11 @@ Business Insights
 
 📸 Dashboard Screenshots
 
-# ⭐ Repository Status
+⭐ If you found this project useful
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/Patient-Healthcare-Analytics?style=social)
+Please consider giving this repository a ⭐ on GitHub.
 
-![GitHub forks](https://img.shields.io/github/forks/yourusername/Patient-Healthcare-Analytics?style=social)
-
-![GitHub issues](https://img.shields.io/github/issues/yourusername/Patient-Healthcare-Analytics)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Patient-Healthcare-Analytics)
+It helps others discover the project and motivates further improvements.
 
 # 💼 Let's Connect
 
