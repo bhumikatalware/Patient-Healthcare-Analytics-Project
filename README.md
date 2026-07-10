@@ -11,3 +11,11 @@
 <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,git,github,vscode"/>
 
 </p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+
+</p>
