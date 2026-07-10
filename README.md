@@ -155,6 +155,16 @@ Business Insights
 
 📸 Dashboard Screenshots
 
+# ⭐ Repository Status
+
+![GitHub stars](https://img.shields.io/github/stars/yourusername/Patient-Healthcare-Analytics?style=social)
+
+![GitHub forks](https://img.shields.io/github/forks/yourusername/Patient-Healthcare-Analytics?style=social)
+
+![GitHub issues](https://img.shields.io/github/issues/yourusername/Patient-Healthcare-Analytics)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Patient-Healthcare-Analytics)
+
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
