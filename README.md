@@ -119,6 +119,26 @@ This project improved my understanding of:
 
 • Data visualization best practices
 
+## 📸 From Raw Data to Insights
+
+Raw Dataset
+
+⬇
+
+Python Cleaning
+
+⬇
+
+SQL Analysis
+
+⬇
+
+Power BI Dashboard
+
+⬇
+
+Business Insights
+
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
