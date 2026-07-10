@@ -105,7 +105,7 @@ This project improved my understanding of:
 
 • Business intelligence
 
-• Data visualization best practices\
+• Data visualization best practices
 
 ## 📸 From Raw Data to Insights
 
