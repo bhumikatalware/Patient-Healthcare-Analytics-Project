@@ -101,6 +101,24 @@ This project demonstrates real-world experience in:
 
 ✔ Executive dashboard for healthcare administrators
 
+## 📚 What I Learned
+
+This project improved my understanding of:
+
+• Data preprocessing
+
+• SQL joins and aggregations
+
+• KPI development
+
+• Dashboard storytelling
+
+• Healthcare analytics
+
+• Business intelligence
+
+• Data visualization best practices
+
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
