@@ -25,14 +25,4 @@
 
 </p>
 
-<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&margin-w=15"/>
-
-</p>
