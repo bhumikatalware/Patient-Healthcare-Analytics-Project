@@ -52,6 +52,7 @@ This project demonstrates how modern data analytics can transform healthcare dat
 
 ✔ Delivering actionable insights for hospital management
 
+
           Healthcare Dataset
                   │
                   ▼
@@ -69,8 +70,8 @@ This project demonstrates how modern data analytics can transform healthcare dat
                   ▼
      Interactive Power BI Dashboard
                   │
-                  ▼
- Executive Business Decision Support
+                  ▼                
+   Executive Business Decision Support
 
 
 ## 📈 Business Impact
@@ -86,6 +87,7 @@ This project demonstrates how modern data analytics can transform healthcare dat
 ✔ Increased operational visibility
 
 ✔ Executive dashboard for healthcare administrators
+
 
 ## 📚 What I Learned
 
@@ -103,7 +105,7 @@ This project improved my understanding of:
 
 • Business intelligence
 
-• Data visualization best practices
+• Data visualization best practices\
 
 ## 📸 From Raw Data to Insights
 
@@ -125,6 +127,7 @@ Power BI Dashboard
 
 Business Insights
 
+
 ## ⭐ Repository Includes
 
 📒 Jupyter Notebook
@@ -140,6 +143,7 @@ Business Insights
 📄 Documentation
 
 📸 Dashboard Screenshots
+
 
 
 ⭐ If you found this project useful
