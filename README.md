@@ -183,16 +183,6 @@ Business Insights
 
 </p>
 
-📁 images/
-│
-├── banner.png          ← Project banner (1600×500)
-├── dashboard1.png      ← Main Power BI dashboard
-├── dashboard2.png      ← Patient analysis
-├── dashboard3.png      ← Treatment analysis
-├── dashboard4.png      ← Lab test analysis
-├── workflow.png        ← Analytics workflow diagram
-└── architecture.png    ← Project architecture
-
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
