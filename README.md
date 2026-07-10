@@ -37,6 +37,7 @@ Transforming raw healthcare data into actionable business insights through moder
 | Duration | Academic Portfolio Project |
 | Difficulty | Intermediate |
 
+
 ## 🎯 Why This Project Matters
 
 Healthcare organizations collect thousands of patient records daily, but raw data alone cannot improve decision-making.
@@ -50,6 +51,27 @@ This project demonstrates how modern data analytics can transform healthcare dat
 ✔ Building interactive dashboards
 
 ✔ Delivering actionable insights for hospital management
+
+          Healthcare Dataset
+                  │
+                  ▼
+        Python Data Cleaning
+                  │
+                  ▼
+      Exploratory Data Analysis
+                  │
+                  ▼
+         SQL Business Analysis
+                  │
+                  ▼
+        KPI Development Layer
+                  │
+                  ▼
+     Interactive Power BI Dashboard
+                  │
+                  ▼
+ Executive Business Decision Support
+ 
 
 <p align="center">
 
