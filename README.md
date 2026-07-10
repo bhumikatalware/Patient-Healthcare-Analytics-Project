@@ -25,6 +25,18 @@ Transforming raw healthcare data into actionable business insights through moder
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=2F80ED&center=true&vCenter=true&width=900&lines=Patient+Healthcare+Analytics;Python+%7C+SQL+%7C+Power+BI;End-to-End+Data+Analytics+Project;Turning+Healthcare+Data+into+Business+Insights" />
 </p>
 
+## 📊 Project at a Glance
+
+| Feature | Details |
+|---------|---------|
+| Domain | Healthcare Analytics |
+| Project Type | End-to-End Data Analytics |
+| Tools | Python, SQL, Power BI |
+| Dataset | Relational Healthcare Database |
+| Dashboard | Interactive Power BI |
+| Duration | Academic Portfolio Project |
+| Difficulty | Intermediate |
+
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
