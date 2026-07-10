@@ -37,6 +37,20 @@ Transforming raw healthcare data into actionable business insights through moder
 | Duration | Academic Portfolio Project |
 | Difficulty | Intermediate |
 
+## 🎯 Why This Project Matters
+
+Healthcare organizations collect thousands of patient records daily, but raw data alone cannot improve decision-making.
+
+This project demonstrates how modern data analytics can transform healthcare data into meaningful business intelligence by:
+
+✔ Cleaning messy datasets
+
+✔ Writing SQL queries for business KPIs
+
+✔ Building interactive dashboards
+
+✔ Delivering actionable insights for hospital management
+
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
