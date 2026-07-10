@@ -87,6 +87,20 @@ This project demonstrates real-world experience in:
 - Analytical Thinking
 - Decision Support Systems
 
+## 📈 Business Impact
+
+✔ Faster decision-making
+
+✔ Better patient monitoring
+
+✔ Improved resource allocation
+
+✔ Reduced reporting time
+
+✔ Increased operational visibility
+
+✔ Executive dashboard for healthcare administrators
+
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
