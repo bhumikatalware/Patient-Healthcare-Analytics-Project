@@ -71,25 +71,6 @@ This project demonstrates how modern data analytics can transform healthcare dat
                   │
                   ▼
  Executive Business Decision Support
-                  │
-                  ▼
-        Python Data Cleaning
-                  │
-                  ▼
-      Exploratory Data Analysis
-                  │
-                  ▼
-         SQL Business Analysis
-                  │
-                  ▼
-        KPI Development Layer
-                  │
-                  ▼
-     Interactive Power BI Dashboard
-                  │
-                  ▼
-          Healthcare Dataset
-     
 
  
 
