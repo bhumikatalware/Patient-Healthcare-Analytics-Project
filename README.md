@@ -72,20 +72,6 @@ This project demonstrates how modern data analytics can transform healthcare dat
                   ▼
  Executive Business Decision Support
 
- ## 💼 Recruiter Highlights
-
-This project demonstrates real-world experience in:
-
-- Data Cleaning
-- Relational Database Design
-- SQL Query Optimization
-- Exploratory Data Analysis
-- Dashboard Development
-- KPI Design
-- Business Intelligence
-- Data Storytelling
-- Analytical Thinking
-- Decision Support Systems
 
 ## 📈 Business Impact
 
@@ -155,11 +141,13 @@ Business Insights
 
 📸 Dashboard Screenshots
 
+
 ⭐ If you found this project useful
 
 Please consider giving this repository a ⭐ on GitHub.
 
 It helps others discover the project and motivates further improvements.
+
 
 # 💼 Let's Connect
 
