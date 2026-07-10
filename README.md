@@ -3,9 +3,5 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o3b3JxdDFpM2lyb2Z2OGM3OGxjdG0xZHVwcXhmdnQwOHh4a3h6NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="700">
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-6f7e3f65-6b77-4b18-99d2-c1d4ef3c57a4.gif" width="700">
 </p>
