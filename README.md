@@ -139,6 +139,22 @@ Power BI Dashboard
 
 Business Insights
 
+## ⭐ Repository Includes
+
+📒 Jupyter Notebook
+
+🗄 SQL Queries
+
+📊 Power BI Dashboard
+
+📑 Project Report
+
+📽 Presentation
+
+📄 Documentation
+
+📸 Dashboard Screenshots
+
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
